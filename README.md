@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MAKAR DH
+- 👀 I’m interested in PROGRAMMING, ETHICAL HACKING
+- 🌱 I’m currently learning LUA,C#,Python,C,C++,JAVA,PHP,GO,RUBY
+- 💞️ I’m looking to collaborate on a website or a game.
+- 📫 How to reach me on discord or here at github my discord : 𝔐𝔞𝔵𝔦𝔪𝔦𝔩𝔩𝔦𝔞𝔫#0666
