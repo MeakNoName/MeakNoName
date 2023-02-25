@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAKAR DH
+- 👋 Hi, I’m @Cosimo
 - 👀 I’m interested in PROGRAMMING, ETHICAL HACKING
 - 🌱 I’m currently learning LUA,C#,Python,C,C++,JAVA,PHP,GO,RUBY
 - 💞️ I’m looking to collaborate on a website or a game.
